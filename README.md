@@ -1,4 +1,4 @@
-![Screenshot 2025-04-21 162407](https://github.com/user-attachments/assets/27a116ed-f3d2-40ae-a268-00367b29c3b0)# Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
+## Ex. No.  - SIMULATION ANALYSIS ON SLIDER CRANK MECHANISM
 
 ## DATE: 21.04.2025
 
